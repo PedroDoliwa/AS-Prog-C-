@@ -1,0 +1,14 @@
+C:\Users\phdol\ASprogC\bin\Debug\net8.0\ASprogC.exe
+C:\Users\phdol\ASprogC\bin\Debug\net8.0\ASprogC.deps.json
+C:\Users\phdol\ASprogC\bin\Debug\net8.0\ASprogC.runtimeconfig.json
+C:\Users\phdol\ASprogC\bin\Debug\net8.0\ASprogC.dll
+C:\Users\phdol\ASprogC\bin\Debug\net8.0\ASprogC.pdb
+C:\Users\phdol\ASprogC\obj\Debug\net8.0\ASprogC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phdol\ASprogC\obj\Debug\net8.0\ASprogC.AssemblyInfoInputs.cache
+C:\Users\phdol\ASprogC\obj\Debug\net8.0\ASprogC.AssemblyInfo.cs
+C:\Users\phdol\ASprogC\obj\Debug\net8.0\ASprogC.csproj.CoreCompileInputs.cache
+C:\Users\phdol\ASprogC\obj\Debug\net8.0\ASprogC.dll
+C:\Users\phdol\ASprogC\obj\Debug\net8.0\refint\ASprogC.dll
+C:\Users\phdol\ASprogC\obj\Debug\net8.0\ASprogC.pdb
+C:\Users\phdol\ASprogC\obj\Debug\net8.0\ASprogC.genruntimeconfig.cache
+C:\Users\phdol\ASprogC\obj\Debug\net8.0\ref\ASprogC.dll

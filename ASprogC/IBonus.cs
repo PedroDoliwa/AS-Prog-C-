@@ -1,0 +1,4 @@
+interface IBonus
+{
+    double CalcularBonus();
+}
